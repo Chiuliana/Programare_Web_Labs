@@ -58,4 +58,19 @@ section h2 {
     font-size: 1.1em;
     color: #555;
   }
+
+  /* Education Styling */
+section ul {
+    padding-left: 20px;
+  }
+  
+  section ul li {
+    font-size: 1.1em;
+    color: #444;
+  }
+  
+  section ul li p {
+    font-style: italic;
+    color: #777;
+  }
   
