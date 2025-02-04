@@ -1,0 +1,51 @@
+/* Basic Information Styling */
+header {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f9;
+    border-radius: 8px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+    font-size: 2em;
+  }
+  
+  p {
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+  strong {
+    color: #333;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  section {
+    margin-top: 20px;
+  }
+  
+  section h2 {
+    color: #4CAF50;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
