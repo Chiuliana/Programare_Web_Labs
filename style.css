@@ -73,4 +73,22 @@ section ul {
     font-style: italic;
     color: #777;
   }
+
+  /* Projects Styling */
+section ul {
+    padding-left: 20px;
+  }
+  
+  section ul li {
+    font-size: 1.1em;
+    color: #444;
+  }
+  
+  section ul li a {
+    color: #007bff;
+  }
+  
+  section ul li a:hover {
+    text-decoration: underline;
+  }
   
