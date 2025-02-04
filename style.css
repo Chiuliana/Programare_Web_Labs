@@ -49,3 +49,13 @@ header {
     margin-bottom: 10px;
   }
   
+  /* About Me Styling */
+section h2 {
+    color: #2E8B57;
+  }
+  
+  section p {
+    font-size: 1.1em;
+    color: #555;
+  }
+  
